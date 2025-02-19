@@ -1,0 +1,10 @@
+#intro {
+  height: 100vh;
+  background-color: #404040;
+  margin-bottom: 200px;
+
+  justify-content: center;
+  align-items: center;
+
+  gap: 94px;
+}
