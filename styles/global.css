@@ -24,7 +24,7 @@
   /* Typography */
   --title-font-family: "Asap", serif;
   --title-lg: 800 56px/120% var(--title-font-family);
-  --title-lmd: 800 24px/120% var(--title-font-family);
+  --title-md: 800 24px/120% var(--title-font-family);
   --title-sm: 800 16px/120% var(--title-font-family);
 
   --subtitle-font-family: "Inconsolata", serif;
@@ -61,6 +61,7 @@ img {
 }
 
 .container {
+  height: 100%;
   max-width: 1040px;
   margin-inline: auto;
 }
